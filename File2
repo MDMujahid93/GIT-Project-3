@@ -1,0 +1,13 @@
+// This is a simple java program
+// Filename: HelloWorld.java
+
+   public static void main (Strings args[]) {
+      System.out.println ("Hello World");
+   }
+
+
+//From Dev-1 & b11 branch
+   public void m1() {
+       System.out.println ("from method-1);
+   }
+
