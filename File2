@@ -11,3 +11,9 @@
        System.out.println ("from method-1);
    }
 
+//From Dev-2 & c11 branch
+   public void m2() {
+       System.out.println ("from method-2);
+   }
+
+}
